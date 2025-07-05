@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+main {
+  padding: 20px;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+input, select {
+  padding: 5px;
+  margin-left: 5px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+}
